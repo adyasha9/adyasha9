@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Adyasha!
 
-I'm an experienced Software Engineer with over 3 years of industry experience, specializing in full-stack web development, cloud engineering, and AI/ML integration. I’m passionate about building scalable, impactful products and bridging the gap between healthcare and technology.
+I'm an experienced Software Engineer with over 4 years of industry experience, specializing in full-stack web development, cloud engineering, and AI/ML integration. I’m passionate about building scalable, impactful products and bridging the gap between healthcare and technology.
 
 ### 💻 What I Do
 - 🔭 Currently working as a **MEAN Stack Developer**  
