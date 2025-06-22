@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Adyasha!
 
-<!--
-**adyasha9/adyasha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer with a focus on full-stack web development, cloud engineering, and AI/ML integration. I love building scalable, impactful products and bridging the gap between healthcare and technology.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- 🔭 Currently working as a **MEAN Stack Developer**  
+- 🧠 Exploring **Cloud Engineering** and **Machine Learning**
+- 💡 Passionate about using **AI for accessible healthcare**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- ☁️ Cloud Platforms: Azure & AWS
+- 📈 System Design and Architecture
+
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** Angular, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Cloud & DevOps:** Azure, AWS, Firebase, Git, Docker
+
+### 🏆 Achievements
+- 🥇 Awarded *Best Intern* and *Excellence in Engineering*
+- 👩‍💻 Founded **Tech Connect** – a club supporting women in tech
+
+### 📫 Let’s Connect!
+- ✉️ [Email](mailto:adyasham918@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adyasha9](https://www.linkedin.com/in/adyasha-mishra-3b6ba8193/))
+
+---
+
+_“Empowering lives with tech, one solution at a time.”_
