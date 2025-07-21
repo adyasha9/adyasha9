@@ -7,7 +7,6 @@ I'm an experienced Software Engineer with over 4 years of industry experience, s
 ### 🚀 Full Stack Developer | Problem Solver 
 
 </div>
-## 
 
 ### 💻 What I Do
 - 🔭 Previously worked at Niramai Health Analytix as a Senior Software Engineer, where I worked on integrating AI-driven healthcare solutions. Currently an incoming Graduate Student at the University of Maryland, specializing in Cloud Engineering.
@@ -116,14 +115,6 @@ const adyasha = {
 </div>
 
 ---
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adyasha9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
