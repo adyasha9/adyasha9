@@ -37,7 +37,7 @@ const adyasha = {
 - 🏆 Goal: **Contribute more to open-source projects and create more projects.**
 - 💬 Ask me about **Frontend Development, Cloud Deployments, DSA**
 - 📫 How to reach me: **adyasham918@gmail.com**
-- 🌐 Check out my portfolio: **[https://adyasha9.github.io/]**
+- 🌐 Check out my portfolio: **[https://adyasha9.github.io/personal-website/]**
 - ⚡ **Would love to connect with like-minded people.**
 
 ---
