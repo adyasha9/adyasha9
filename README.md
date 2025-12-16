@@ -28,7 +28,7 @@ const adyasha = {
     },
     currentFocus: "Integrating AI/ML models into scalable web platforms",
     challenge: "Balancing grad school prep and side projects.",
-    portfolio: ["https://adyasha9.github.io/"]
+    portfolio: ["https://adyasha9.github.io/personal-website/"]
 }
 ```
 
